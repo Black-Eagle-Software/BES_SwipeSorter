@@ -1,2 +1,2 @@
 # BES_SwipeSorter
-Unity port of "Bubbles" by KTSS
+Proof-of-concept Unity port of iOS game "Bubbles" by KTSS, with gameplay additions (falling blockers, bombs).  Work in progress.
